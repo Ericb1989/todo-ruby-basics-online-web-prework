@@ -15,7 +15,7 @@ def argue
 end
 
 def greeting = "Hi What's up?"
-name = Eric
+name = "Eric"
 
 end
 
