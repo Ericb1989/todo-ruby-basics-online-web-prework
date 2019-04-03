@@ -19,9 +19,8 @@ name = "Eric"
 end
 
 def return_a_value
+  "Chillen"
   
-  
-
 end
 
 def last_evaluated_value
