@@ -13,7 +13,8 @@ def argue
   
 end
 
-def greeting = "Hello World"
+def greeting = "Hi What's up?"
+name = Eric
 
 end
 
